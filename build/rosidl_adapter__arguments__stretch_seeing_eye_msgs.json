@@ -1,0 +1,14 @@
+{
+  "package_name": "stretch_seeing_eye_msgs",
+  "non_idl_tuples": [
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs:msg/Door.msg",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs:msg/Tracking.msg",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs:msg/WaypointDijkstra.msg",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs:srv/CheckClear.srv",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs:srv/Feature.srv",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs:srv/FindFace.srv",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs:srv/GetWaypoints.srv",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs:srv/MakePath.srv",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs:srv/Waypoint.srv"
+  ]
+}

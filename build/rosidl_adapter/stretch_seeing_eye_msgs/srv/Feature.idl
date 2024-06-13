@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from stretch_seeing_eye_msgs/srv/Feature.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point32.idl"
+
+module stretch_seeing_eye_msgs {
+  module srv {
+    module Feature_Request_Constants {
+      const int32 LOW = 0;
+      const int32 MEDIUM = 1;
+      const int32 HIGH = 2;
+    };
+    struct Feature_Request {
+      sequence<geometry_msgs::msg::Point32> points;
+
+      int32 detail_level;
+    };
+    struct Feature_Response {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

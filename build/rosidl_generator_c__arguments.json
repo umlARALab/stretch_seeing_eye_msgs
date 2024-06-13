@@ -1,0 +1,40 @@
+{
+  "package_name": "stretch_seeing_eye_msgs",
+  "output_dir": "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_generator_c/stretch_seeing_eye_msgs",
+  "template_dir": "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:msg/Door.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:msg/Tracking.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:msg/WaypointDijkstra.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:srv/CheckClear.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:srv/Feature.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:srv/FindFace.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:srv/GetWaypoints.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:srv/MakePath.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:srv/Waypoint.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../../../local/lib/python3.10/dist-packages/rosidl_generator_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/msg/Door.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/msg/Tracking.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/msg/WaypointDijkstra.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/srv/CheckClear.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/srv/Feature.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/srv/FindFace.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/srv/GetWaypoints.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/srv/MakePath.idl",
+    "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/srv/Waypoint.idl"
+  ]
+}

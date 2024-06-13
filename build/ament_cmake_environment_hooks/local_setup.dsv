@@ -1,0 +1,4 @@
+source;share/stretch_seeing_eye_msgs/environment/ament_prefix_path.sh
+source;share/stretch_seeing_eye_msgs/environment/library_path.sh
+source;share/stretch_seeing_eye_msgs/environment/path.sh
+source;share/stretch_seeing_eye_msgs/environment/pythonpath.sh

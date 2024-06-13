@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-da44cd021a24e0a35dc0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "stretch_seeing_eye_msgs__py",
+					"jsonFile" : "directory-stretch_seeing_eye_msgs__py-Debug-be80fedb226d5b23ddd7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "build/stretch_seeing_eye_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "stretch_seeing_eye_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_stretch_seeing_eye_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_stretch_seeing_eye_msgs_egg-Debug-d8024195f6e6a76c74ad.json",
+					"name" : "ament_cmake_python_build_stretch_seeing_eye_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_stretch_seeing_eye_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_stretch_seeing_eye_msgs-Debug-f1f11dad780460aea5b9.json",
+					"name" : "ament_cmake_python_copy_stretch_seeing_eye_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs-Debug-1bbfeec6fda0f196498b.json",
+					"name" : "stretch_seeing_eye_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__cpp-Debug-bf183ed7c6bbd6636729.json",
+					"name" : "stretch_seeing_eye_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "stretch_seeing_eye_msgs__py::@c9ecb386c8d89d9dbd9f",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__py-Debug-e45e221c3f542b127102.json",
+					"name" : "stretch_seeing_eye_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_generator_c-Debug-f76b5c644a807cb718d0.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_generator_py-Debug-a41a6696f0f7b8a11c4b.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_typesupport_c-Debug-07dee153ff79c2216cc8.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_typesupport_c__pyext-Debug-841fa95139f96c4510b3.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_typesupport_cpp-Debug-a479dc0869c5f8fda5a8.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c-Debug-33236881ac62cd6dd98a.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c__pyext-Debug-fbd42b7efc9b2fee82d8.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_cpp-Debug-5ee069801d8c8afbe755.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_typesupport_introspection_c-Debug-3b7f32a4b9a8029c2a26.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_typesupport_introspection_c__pyext-Debug-a80f51e76c6a0f40f70a.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs__rosidl_typesupport_introspection_cpp-Debug-25ea393a16242c47c60a.json",
+					"name" : "stretch_seeing_eye_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stretch_seeing_eye_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stretch_seeing_eye_msgs_uninstall-Debug-4770a1933486a06d0f75.json",
+					"name" : "stretch_seeing_eye_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-d32d0f147ccb17f26567.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build",
+		"source" : "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

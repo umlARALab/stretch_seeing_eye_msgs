@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "stretch_seeing_eye_msgs__py",
+		"source" : "build/stretch_seeing_eye_msgs__py"
+	}
+}

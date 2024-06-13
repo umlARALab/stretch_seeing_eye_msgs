@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from stretch_seeing_eye_msgs/srv/FindFace.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/PointStamped.idl"
+
+module stretch_seeing_eye_msgs {
+  module srv {
+    struct FindFace_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct FindFace_Response {
+      boolean found;
+
+      geometry_msgs::msg::PointStamped point;
+    };
+  };
+};

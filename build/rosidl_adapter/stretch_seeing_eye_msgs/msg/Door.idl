@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from stretch_seeing_eye_msgs/msg/Door.msg
+// generated code does not contain a copyright notice
+
+
+module stretch_seeing_eye_msgs {
+  module msg {
+    module Door_Constants {
+      const uint8 LOW = 0;
+      const uint8 MEDIUM = 1;
+      const uint8 HIGH = 2;
+    };
+    struct Door {
+      uint8 detail_level;
+
+      string data;
+
+      float angle;
+    };
+  };
+};
