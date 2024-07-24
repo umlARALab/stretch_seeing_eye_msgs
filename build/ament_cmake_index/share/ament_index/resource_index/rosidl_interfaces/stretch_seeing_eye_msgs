@@ -1,5 +1,7 @@
 msg/Door.idl
 msg/Door.msg
+msg/RobotPathingState.idl
+msg/RobotPathingState.msg
 msg/Tracking.idl
 msg/Tracking.msg
 msg/WaypointDijkstra.idl

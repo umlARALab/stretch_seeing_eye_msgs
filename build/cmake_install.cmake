@@ -97,7 +97,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libstretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libstretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.so"
-         OLD_RPATH "/opt/ros/humble/lib:/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build:"
+         OLD_RPATH "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build:/opt/ros/humble/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libstretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.so")
@@ -360,6 +360,10 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/stretch_seeing_eye_msgs/msg" TYPE FILE FILES "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/msg/RobotPathingState.idl")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/stretch_seeing_eye_msgs/msg" TYPE FILE FILES "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs/msg/Tracking.idl")
 endif()
 
@@ -393,6 +397,10 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/stretch_seeing_eye_msgs/msg" TYPE FILE FILES "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/msg/Door.msg")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/stretch_seeing_eye_msgs/msg" TYPE FILE FILES "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/msg/RobotPathingState.msg")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -696,6 +704,10 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/stretch_seeing_eye_msgs/cmake" TYPE FILE FILES "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/ament_cmake_export_dependencies/ament_cmake_export_dependencies-extras.cmake")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/stretch_seeing_eye_msgs/cmake" TYPE FILE FILES "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/ament_cmake_export_include_directories/ament_cmake_export_include_directories-extras.cmake")
 endif()
 
@@ -709,10 +721,6 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/stretch_seeing_eye_msgs/cmake" TYPE FILE FILES "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake")
-endif()
-
-if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/stretch_seeing_eye_msgs/cmake" TYPE FILE FILES "/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/ament_cmake_export_dependencies/ament_cmake_export_dependencies-extras.cmake")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)

@@ -1,4 +1,5 @@
 /home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:msg/Door.idl
+/home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:msg/RobotPathingState.idl
 /home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:msg/Tracking.idl
 /home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:msg/WaypointDijkstra.idl
 /home/hello-robot/ament_ws/src/stretch_seeing_eye_msgs/build/rosidl_adapter/stretch_seeing_eye_msgs:srv/CheckClear.idl

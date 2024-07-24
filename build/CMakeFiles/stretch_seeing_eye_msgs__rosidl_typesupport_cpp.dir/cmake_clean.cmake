@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/door__type_support.cpp.o"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/door__type_support.cpp.o.d"
+  "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/robot_pathing_state__type_support.cpp.o"
+  "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/robot_pathing_state__type_support.cpp.o.d"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/tracking__type_support.cpp.o"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/tracking__type_support.cpp.o.d"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/waypoint_dijkstra__type_support.cpp.o"
@@ -20,6 +22,7 @@ file(REMOVE_RECURSE
   "libstretch_seeing_eye_msgs__rosidl_typesupport_cpp.pdb"
   "libstretch_seeing_eye_msgs__rosidl_typesupport_cpp.so"
   "rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/door__type_support.cpp"
+  "rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/robot_pathing_state__type_support.cpp"
   "rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/tracking__type_support.cpp"
   "rosidl_typesupport_cpp/stretch_seeing_eye_msgs/msg/waypoint_dijkstra__type_support.cpp"
   "rosidl_typesupport_cpp/stretch_seeing_eye_msgs/srv/check_clear__type_support.cpp"

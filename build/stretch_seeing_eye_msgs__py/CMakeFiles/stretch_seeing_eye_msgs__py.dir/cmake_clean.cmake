@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "../rosidl_generator_py/stretch_seeing_eye_msgs/msg/__init__.py"
   "../rosidl_generator_py/stretch_seeing_eye_msgs/msg/_door.py"
   "../rosidl_generator_py/stretch_seeing_eye_msgs/msg/_door_s.c"
+  "../rosidl_generator_py/stretch_seeing_eye_msgs/msg/_robot_pathing_state.py"
+  "../rosidl_generator_py/stretch_seeing_eye_msgs/msg/_robot_pathing_state_s.c"
   "../rosidl_generator_py/stretch_seeing_eye_msgs/msg/_tracking.py"
   "../rosidl_generator_py/stretch_seeing_eye_msgs/msg/_tracking_s.c"
   "../rosidl_generator_py/stretch_seeing_eye_msgs/msg/_waypoint_dijkstra.py"

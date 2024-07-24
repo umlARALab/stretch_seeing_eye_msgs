@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_generator_py.dir/rosidl_generator_py/stretch_seeing_eye_msgs/msg/_door_s.c.o"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_generator_py.dir/rosidl_generator_py/stretch_seeing_eye_msgs/msg/_door_s.c.o.d"
+  "CMakeFiles/stretch_seeing_eye_msgs__rosidl_generator_py.dir/rosidl_generator_py/stretch_seeing_eye_msgs/msg/_robot_pathing_state_s.c.o"
+  "CMakeFiles/stretch_seeing_eye_msgs__rosidl_generator_py.dir/rosidl_generator_py/stretch_seeing_eye_msgs/msg/_robot_pathing_state_s.c.o.d"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_generator_py.dir/rosidl_generator_py/stretch_seeing_eye_msgs/msg/_tracking_s.c.o"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_generator_py.dir/rosidl_generator_py/stretch_seeing_eye_msgs/msg/_tracking_s.c.o.d"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_generator_py.dir/rosidl_generator_py/stretch_seeing_eye_msgs/msg/_waypoint_dijkstra_s.c.o"

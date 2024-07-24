@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/door__type_support_c.cpp.o"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/door__type_support_c.cpp.o.d"
+  "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/robot_pathing_state__type_support_c.cpp.o"
+  "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/robot_pathing_state__type_support_c.cpp.o.d"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/tracking__type_support_c.cpp.o"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/tracking__type_support_c.cpp.o.d"
   "CMakeFiles/stretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/waypoint_dijkstra__type_support_c.cpp.o"
@@ -21,6 +23,8 @@ file(REMOVE_RECURSE
   "libstretch_seeing_eye_msgs__rosidl_typesupport_fastrtps_c.so"
   "rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/door__rosidl_typesupport_fastrtps_c.h"
   "rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/door__type_support_c.cpp"
+  "rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/robot_pathing_state__rosidl_typesupport_fastrtps_c.h"
+  "rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/robot_pathing_state__type_support_c.cpp"
   "rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/tracking__rosidl_typesupport_fastrtps_c.h"
   "rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/tracking__type_support_c.cpp"
   "rosidl_typesupport_fastrtps_c/stretch_seeing_eye_msgs/msg/detail/waypoint_dijkstra__rosidl_typesupport_fastrtps_c.h"

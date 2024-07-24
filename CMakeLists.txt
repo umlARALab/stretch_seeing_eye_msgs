@@ -17,6 +17,7 @@ find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Door.msg"
+  "msg/RobotPathingState.msg"
   "msg/Tracking.msg"
   "msg/WaypointDijkstra.msg"
   "srv/CheckClear.srv"
