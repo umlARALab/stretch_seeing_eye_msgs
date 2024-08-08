@@ -16,6 +16,7 @@ find_package(geometry_msgs REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
+  "msg/DetectedObject.msg"
   "msg/Door.msg"
   "msg/RobotPathingState.msg"
   "msg/Tracking.msg"
