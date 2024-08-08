@@ -1,5 +1,5 @@
 string class_name
 float32 score
-uint32 bounding_box_center
+uint32[] bounding_box_center
 uint32 bounding_box_height
 uint32 bounding_box_width
